@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\bin\Debug\netcoreapp3.1\Randomletter.exe
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\bin\Debug\netcoreapp3.1\Randomletter.deps.json
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\bin\Debug\netcoreapp3.1\Randomletter.runtimeconfig.json
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\bin\Debug\netcoreapp3.1\Randomletter.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\bin\Debug\netcoreapp3.1\Randomletter.dll
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\bin\Debug\netcoreapp3.1\Randomletter.pdb
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\obj\Debug\netcoreapp3.1\Randomletter.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\obj\Debug\netcoreapp3.1\Randomletter.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\obj\Debug\netcoreapp3.1\Randomletter.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\obj\Debug\netcoreapp3.1\Randomletter.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\obj\Debug\netcoreapp3.1\Randomletter.dll
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\obj\Debug\netcoreapp3.1\Randomletter.pdb
+C:\Users\opilane\source\repos\Logitpe21\week7assignment\Randomletter\obj\Debug\netcoreapp3.1\Randomletter.genruntimeconfig.cache
